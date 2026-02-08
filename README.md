@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, My name is Prithviraj!
+
+<p align="center">
+  <img src="Github Profile Banner.png" alt="Profile Banner" />
+</p>
 
 <!--
 **prithviraj-rpa-ai-dev/prithviraj-rpa-ai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
