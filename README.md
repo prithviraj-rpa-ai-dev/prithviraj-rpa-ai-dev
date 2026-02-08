@@ -1,4 +1,4 @@
-## Hi there 👋, My name is Prithviraj!
+## Hi there 👋, Welcome to my GitHub profile!
 
 <p align="center">
   <img src="Github Profile Banner.png" alt="Profile Banner" />
